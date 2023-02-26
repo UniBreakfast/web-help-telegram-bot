@@ -1,0 +1,24 @@
+{
+  "function": [
+    {
+      "definition": "in JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when \"something\" invokes it (calls it). For example, when an event occurs (when a user clicks a button) or when it is invoked (called) from JavaScript code.",
+      "author": "W3Schools via GitHub Copilot"
+    }
+  ],
+  "variable": [
+    {
+      "definition": "A variable is a container for a value, which can be a number, string, Boolean, array, or object. In other words, a variable is a symbolic name for a value. The variable name can be any valid JavaScript identifier name, including keywords and future reserved words, such as var, let, and const.",
+      "author": "W3Schools via GitHub Copilot"
+    }
+  ],
+  "scope The code part where the identifier is": [
+    {
+      "definition": "visible."
+    }
+  ],
+  "scope": [
+    {
+      "definition": "The code part where the identifier is visible."
+    }
+  ]
+}
